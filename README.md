@@ -34,9 +34,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maxi-lab/maxi-lab/output/snake.svg" alt="Snake animation" />
-
-###
