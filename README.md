@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/máximo-preneste-8549a9229" target="_blank">
+  <a href="https://www.linkedin.com/in/máximo-preneste-8549a9229" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Link a mi perfil de Linkedin"  />
   </a>
 </div>
