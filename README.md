@@ -1,4 +1,4 @@
-<h2 align="left">Hello world! I'm Maximo Preneste, I'm ready for the next chalange.</h2>
+<h2 align="left">Hello world! I'm Maximo Preneste, I'm ready for the next challange.</h2>
 
 ###
 
